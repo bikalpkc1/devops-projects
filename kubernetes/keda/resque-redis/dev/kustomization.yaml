@@ -1,0 +1,4 @@
+resources:
+  - resque-redis-secret.yaml
+  - resque-redis-ta.yaml
+  - resque-scaled-object.yaml

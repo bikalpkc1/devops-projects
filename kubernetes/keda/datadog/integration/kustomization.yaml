@@ -1,0 +1,5 @@
+resources:
+  - datadog-secret.yaml
+  - scaled-job-binning-service-intg.yaml
+#  - scaled-job-binning-service-intg-without-healthcheck.yaml
+  - trigger-authentication.yaml
