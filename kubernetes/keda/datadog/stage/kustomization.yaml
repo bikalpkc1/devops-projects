@@ -1,0 +1,4 @@
+resources:
+  - datadog-secret.yaml
+  - scaled-job.yaml
+  - trigger-authentication.yaml
